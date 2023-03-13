@@ -1,0 +1,10 @@
+[package]
+name = "divisors"
+version = "0.1.0"
+authors = ["HarrySkySon <observer_12@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dependencies.num_cpus]
+version = "1.14.0"
